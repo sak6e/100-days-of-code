@@ -19,12 +19,22 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: March 21
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp. https://twitter.com/saksham20garg/status/976552265896153088
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: March 22 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: https://twitter.com/saksham20garg/status/976900705830277120
+
+### Day 3: March 23 
+
+**Today's Progress**: https://twitter.com/saksham20garg/status/977262022483202048
+
+### Day 4: March 24 
+
+**Today's Progress**: https://twitter.com/saksham20garg/status/977618097979953159
+
+### Day 5: March 25 
+
+**Today's Progress**:https://twitter.com/saksham20garg/status/978000520924278784
