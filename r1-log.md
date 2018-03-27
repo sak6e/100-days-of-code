@@ -1,10 +1,23 @@
 # #100DaysOfCode Log - Round 1 - [Your Name Here]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [March 21, Wednesday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+https://twitter.com/saksham20garg/status/976552265896153088
 
 ### R1D2
+https://twitter.com/saksham20garg/status/976900705830277120
+
+### R1D3
+https://twitter.com/saksham20garg/status/977262022483202048
+
+### R1D4
+https://twitter.com/saksham20garg/status/977618097979953159
+
+### R1D5
+https://twitter.com/saksham20garg/status/978000520924278784
+
+### R1D6
+https://twitter.com/saksham20garg/status/978699165743177729
