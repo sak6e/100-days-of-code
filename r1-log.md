@@ -55,3 +55,6 @@ https://twitter.com/saksham20garg/status/984128201927610371
 ### R1D17
 https://twitter.com/saksham20garg/status/984526262831140865
 
+### R1D18
+https://twitter.com/saksham20garg/status/984877614631411712
+
