@@ -73,3 +73,6 @@ https://twitter.com/saksham20garg/status/986336727785791488
 ### R1D23
 https://twitter.com/saksham20garg/status/986672128211775488
 
+### R1D24
+https://twitter.com/saksham20garg/status/987741010557046784
+
