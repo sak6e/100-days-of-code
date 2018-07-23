@@ -91,3 +91,5 @@ https://twitter.com/saksham20garg/status/990299067866591232
 ### R1D29
 https://twitter.com/saksham20garg/status/990661831244046336
 
+No I didn't give up on the challenge, I just don't maintain this log now. I keep the log on twitter.
+
